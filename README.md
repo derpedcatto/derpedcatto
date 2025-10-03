@@ -2,6 +2,7 @@
 I'm Oleksandr, and I specialize in React/TypeScript and .NET ecosystems. I mainly work with full-stack web applications and Windows desktop apps. Here are my socials:
 - [LinkedIn](https://www.linkedin.com/in/alexander-vannovskiy/)
 - [DOU](https://dou.ua/users/alexander-vannovskiy/)
+- [Djinni](https://djinni.co/q/7a1a7f7a8f/)
 
 # My Projects
 ### Full-Stack
