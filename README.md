@@ -7,7 +7,7 @@ I'm Oleksandr, and I specialize in React/TypeScript and .NET ecosystems. I mainl
 # My Projects
 ### Full-Stack
 - [Nice Gadgets e-commerce](https://github.com/fs-jun25-team-4-tech-check/nice-gadgets) - React + Supabase API
-- [BnFurniture](https://github.com/derpedcatto/BnFurnitureApp) - React + .NET
+- [BnFurniture e-commerce](https://github.com/derpedcatto/BnFurnitureApp) - React + .NET
 
 ### Web / Front-end
 - [React ToDo App](https://github.com/derpedcatto/React-ToDo-App) - Simple ToDo App with API usage
